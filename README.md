@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vaibhav Katiyar.<br>👀 I’m interested in Open Source Project Contribution.<br>🌱 I’m currently learning Full Stack Web Develpment.<br>💞️ I’m looking to collaborate for Open Source Project in Startups.<br>📫 How to reach me : Mail me at vaibhavka49@gmail.com<br>😄 Pronouns: He/Him
+👋 Hi, I’m Vaibhav Katiyar.<br>👀 I’m interested in Open Source Project Contribution.<br>🌱 I’m currently a DevOps and Full Stack Web Develpment.<br>💞️ I’m looking to collaborate for Open Source Project in Startups.<br>📫 How to reach me : Mail me at vaibhavka49@gmail.com<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
